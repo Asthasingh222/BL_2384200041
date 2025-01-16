@@ -1,0 +1,13 @@
+echo -> create readme file
+git init -> Initialize a local Git repository
+git add . -> add everything
+git add [file name] ->Add a file to the staging area
+git commit -m 'Initial commit'  ->commit changes,take snapshot with unique id to files
+git branch -m [old branch name] [new branch name] -> rename a local branch
+git remote add origin  -> connectiong local repository to remote
+
+git push -> push changes 
+
+
+repo to local  ->downstream
+local to repo  ->upstream
